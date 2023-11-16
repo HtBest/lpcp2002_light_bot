@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 n, m, x, y, d, M, S, num = map(int, input().split())
 print('row(%d).' % n)
 print('col(%d).' % m)
